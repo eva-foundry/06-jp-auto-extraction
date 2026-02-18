@@ -1,0 +1,107 @@
+{
+  "timestamp": "2026-01-23T07:34:09.064710",
+  "archived_files": [
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\README.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\README.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\README-UPDATED.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\README-UPDATED.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\SESSION_GUIDE.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\SESSION_GUIDE.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\PLAN.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\PLAN.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\COMPLETED_PROJECT.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\COMPLETED_PROJECT.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\ARTIFACT-LOCATIONS.md",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\ARTIFACT-LOCATIONS.md",
+      "type": "redundant_documentation"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\run_jp_batch.py",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\scripts\\run_jp_batch.py",
+      "type": "legacy_script"
+    },
+    {
+      "original": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\run_jp_aggressive.py",
+      "archived_to": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409\\scripts\\run_jp_aggressive.py",
+      "type": "legacy_script"
+    }
+  ],
+  "kept_files": [
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\README.md",
+      "action": "renamed_from_README_PROFESSIONAL.md",
+      "type": "primary_documentation"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\ACCEPTANCE.md",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\IMPLEMENTATION_PLAN.md",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\PROFESSIONAL_TRANSFORMATION_STANDARD.md",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\coding_standards.md",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\jp_automation_main.py",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\jp_naming_system.py",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\jp_exceptions.py",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\jp_acceptance_tester.py",
+      "action": "verified_exists",
+      "type": "professional_component"
+    },
+    {
+      "file": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\scripts\\jp_evidence_collector.py",
+      "action": "verified_exists",
+      "type": "professional_component"
+    }
+  ],
+  "cleanup_summary": {
+    "total_archived": 8,
+    "total_kept": 10,
+    "archived_by_type": {
+      "redundant_documentation": 6,
+      "legacy_script": 2
+    },
+    "archive_directory": "C:\\Users\\marco.presta\\OneDrive - ESDC EDSC\\Documents\\AICOE\\EVA-JP-v1.2\\docs\\eva-foundation\\projects\\06-JP-Auto-Extraction\\archive\\pre_professional_20260123_073409",
+    "cleanup_complete": true
+  }
+}

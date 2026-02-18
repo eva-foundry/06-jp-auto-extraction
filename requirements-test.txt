@@ -1,0 +1,29 @@
+# Testing framework dependencies for JP Automated Extraction
+# Updated for ESDC workstation constraints (using available packages)
+
+# AVAILABLE - Core testing (already installed)
+pytest>=8.0.0           # ✅ Version 8.3.4 available
+requests>=2.32.0         # ✅ Version 2.32.3 available  
+pandas>=2.0.0            # ✅ Version 2.2.3 available
+
+# AVAILABLE - Code quality (already installed)
+mypy>=1.7.0              # ✅ Version 1.14.1 available
+flake8>=7.0.0            # ✅ Version 7.1.1 available
+black>=24.0.0            # ✅ Version 24.10.0 available
+isort>=6.0.0             # ✅ Version 6.0.1 available
+
+# NOT AVAILABLE - Would need DevBox or offline installation
+# pytest-cov>=4.0.0      # ❌ Not in enterprise repo
+# playwright>=1.40.0     # ❌ Not in enterprise repo 
+# responses>=0.23.0      # ❌ Not in enterprise repo
+# factory-boy>=3.2.0     # ❌ Not in enterprise repo
+
+# ALTERNATIVE APPROACH FOR ENTERPRISE ENVIRONMENT:
+# 1. Use existing pytest for basic unit testing
+# 2. Use requests for HTTP mocking (instead of responses)
+# 3. Use manual browser testing (instead of playwright automation)
+# 4. Use coverage.py if available (instead of pytest-cov)
+
+# Additional packages that may be needed:
+# coverage                # For test coverage if available
+# unittest-mock           # For enhanced mocking (use built-in unittest.mock)

@@ -1,0 +1,35 @@
+# Playwright offline browser binaries (hundreds of MB - DO NOT commit)
+offline_playwright/browsers/
+offline_playwright/*.whl
+
+# Ignore generated outputs (fully regenerable)
+output/
+logs/
+debug/
+evidence/
+sessions/
+screenshots/
+archive/
+input/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
